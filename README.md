@@ -28,17 +28,23 @@
 
 # 💻 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -63,8 +69,12 @@ I believe technology should be **functional, scalable, and empowering**.
 # 📊 GitHub Overview
 
 ![Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=goddyrob&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
-
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddyrob&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+
+## GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goddyrob&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Godswill's%20GitHub%20Activity)
 
 ---
 
@@ -79,8 +89,8 @@ I believe technology should be **functional, scalable, and empowering**.
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: https://godswill-robwet.vercel.app  
-- 💼 LinkedIn: https://linkedin.com/in/godswill-robwet  
+- 🌐 Portfolio: [godswill-robwet.vercel.app](https://godswill-robwet.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/godswill-robwet](https://linkedin.com/in/godswill-robwet)  
 - 📧 Email: goddyrob31@gmail.com  
 - 📍 Nakuru, Kenya  
 
