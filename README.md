@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/godswill-robwet">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://godswill-robwet.vercel.app">
+  <a href="https://godswillrobwet.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/goddyrob">
@@ -77,9 +77,9 @@ I believe technology should be **functional, scalable, and empowering**.
 
 # 📊 GitHub Overview
 
-![Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=goddyrob&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+![Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=goddyrob&show_icons=true&theme=github_dark&hide_border=true)
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddyrob&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddyrob&layout=compact&theme=github_dark&hide_border=true)
 
 ## GitHub Activity Graph
 
@@ -98,7 +98,7 @@ I believe technology should be **functional, scalable, and empowering**.
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: [godswill-robwet.vercel.app](https://godswill-robwet.vercel.app)  
+- 🌐 Portfolio: [godswillrobwet.netlify.app](https://godswillrobwet.netlify.app/)  
 - 💼 LinkedIn: [linkedin.com/in/godswill-robwet](https://linkedin.com/in/godswill-robwet)  
 - 📧 Email: goddyrob31@gmail.com  
 - 📍 Nakuru, Kenya  
