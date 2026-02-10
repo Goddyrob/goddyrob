@@ -37,7 +37,7 @@
 
 ### 👨‍💻 Full-Stack Developer | Tech Educator | ICT Leader
 
-Hi, I'm **Godswill Kipkurui Robwet** from Nakuru, Kenya 🇰🇪  
+Hi, I'm **Godswill Robwet** from Nakuru, Kenya 🇰🇪  
 
 I build modern, scalable web and mobile applications that solve real-world problems.  
 Specialized in **React, React Native, Firebase, Supabase, and full-stack system architecture**.
