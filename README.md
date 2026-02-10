@@ -1,28 +1,32 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Godswill+Kipkurui+Robwet;Full-Stack+Software+Developer;Building+Scalable+Systems;React+%7C+Firebase+%7C+Supabase&center=true&size=28)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Godswill%20Robwet&fontSize=45&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Firebase%20%7C%20System%20Architecture&descAlign=50&descAlignY=70&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
+  <a href="https://linkedin.com/in/godswill-robwet">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://godswill-robwet.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/goddyrob">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:goddyrob31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=goddyrob&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+
 </div>
 
 ---
 
-# 👨‍💻 Godswill Kipkurui Robwet
-
-### Full-Stack Developer | Software Systems Builder | Tech Educator
-
-I design and develop scalable web and desktop systems focused on performance, usability, and real-world impact.
-
-Currently pursuing a **Bachelor of Education (Technology) – Computer Studies**  
-Expected Graduation: **2028**
-
-My work centers on:
-- Building production-ready systems
-- Clean architecture and maintainable code
-- Full-stack application development
-- Database design and optimization
-- Modern frontend engineering
-
----
-
-## 🛠 Core Technologies
+# 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,48 +37,53 @@ My work centers on:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🏗 Selected Projects
+# 👨‍💻 About Me
 
-**BELIOT Sawmill Inventory & Sales System**  
-Full-stack system built with React + Firebase for real-time inventory and transaction tracking.
+### Full-Stack Developer | Tech Educator | ICT Leader
 
-**MMUST Christian Union Website**  
-Institutional website designed for performance, clarity, and community engagement.
+I am **Godswill Kipkurui Robwet**, a full-stack developer based in Nakuru, Kenya 🇰🇪  
 
-**Inventory Management System (Desktop & Web)**  
-Integrated product management, authentication, and reporting system.
+I design and build scalable web and mobile applications focused on performance, usability, and real-world impact.
 
----
+### Highlights:
+- 🚀 Developed production-ready inventory and sales management systems  
+- 🌐 Led development of institutional and community websites  
+- 📊 Strong focus on clean architecture and optimized performance  
+- 🎓 Bachelor of Education (Technology) – Computer Studies (Expected Graduation: 2028)
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goddyrob&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddyrob&layout=compact&theme=github_dark&hide_border=true)
+I believe technology should be **functional, scalable, and empowering**.
 
 ---
 
-## 🌍 Professional Focus
+# 📊 GitHub Overview
 
-- Software Engineering Best Practices  
-- Scalable Application Development  
-- Database Architecture  
-- System Optimization  
-- Educational Technology  
+![Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=goddyrob&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddyrob&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 ---
 
-## 📫 Contact
+# 🏗 Featured Projects
 
-- 📍 Nakuru, Kenya  
-- 📧 goddyrob31@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/godswill-robwet  
+- 🔹 MMUST Christian Union Website  
+- 🔹 Inventory & Sales Management System  
+- 🔹 BELIOT Sawmill System  
+- 🔹 Personal Portfolio Website  
+
+---
+
+# 📫 Connect With Me
+
 - 🌐 Portfolio: https://godswill-robwet.vercel.app  
+- 💼 LinkedIn: https://linkedin.com/in/godswill-robwet  
+- 📧 Email: goddyrob31@gmail.com  
+- 📍 Nakuru, Kenya  
 
 ---
 
-> Building systems that are structured, scalable, and impactful.
+⭐ *Always learning. Always building. Always improving.*
